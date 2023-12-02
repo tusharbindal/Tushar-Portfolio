@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tushar-portfolio/static/css/main.ae9d5df6.css",
+    "main.js": "/tushar-portfolio/static/js/main.9dc8df6a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/tushar-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/tushar-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/lms.png": "/tushar-portfolio/static/media/lms.c94b3159b73ae539052b.png",
+    "static/media/cms.png": "/tushar-portfolio/static/media/cms.425628ea222d7aba48cd.png",
+    "static/media/ecw.png": "/tushar-portfolio/static/media/ecw.bb49ac2caf88c5e364ab.png",
+    "static/media/home-main.svg": "/tushar-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/tushar-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/tb logo.png": "/tushar-portfolio/static/media/tb logo.1e11162fee79b07835b3.png",
+    "static/media/Tushar_Resume.pdf": "/tushar-portfolio/static/media/Tushar_Resume.bfb700d9dacac1408ecf.pdf",
+    "static/media/home-bg.jpg": "/tushar-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/tushar-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/tushar-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/tushar-portfolio/index.html",
+    "main.ae9d5df6.css.map": "/tushar-portfolio/static/css/main.ae9d5df6.css.map",
+    "main.9dc8df6a.js.map": "/tushar-portfolio/static/js/main.9dc8df6a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/tushar-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/tushar-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9d5df6.css",
+    "static/js/main.9dc8df6a.js"
+  ]
+}
